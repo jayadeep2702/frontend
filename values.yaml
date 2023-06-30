@@ -3,3 +3,4 @@ service:
   type: LoadBalancer
 
 params: ""
+appPort: 80
