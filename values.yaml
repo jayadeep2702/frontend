@@ -4,3 +4,11 @@ service:
 
 params: ""
 appPort: 80
+
+resources:
+   limits:
+     cpu: 700m
+     memory: 712Mi
+   requests:
+     cpu: 500m
+     memory: 512Mi
