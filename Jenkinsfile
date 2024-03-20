@@ -2,4 +2,4 @@
 
 env.component="frontend"
 env.schema_dir=''
-nodejs()
+nginx()
